@@ -1,10 +1,10 @@
 # Projeto-Biscoito-Da-Sorte
 
-# Noted
+# Observado
 
 ![GitHub language count](https://img.shields.io/github/languages/count/jjpegado/Projeto-Biscoito-Da-Sorte)
 
 
-## About
+## Sobre
 
 Um aplicativo para exibir palavras de sorte
